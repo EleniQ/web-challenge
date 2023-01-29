@@ -1,6 +1,8 @@
 # Web Design
 
 ### Notes 
-* I am not artistically inclined.
-* This was not enjoyable. 
-* I will never do this again. 
+* Graphs show information on 604 cities, information is on weather conditions. 
+* Bootstrap used for Nav Bar. 
+* Used the standard Bootstrap CSS style.
+* Link to original project can be found [here] (https://github.com/EleniQ/python-api-challenge)
+* Website can be found [here] (https://eleniq.github.io/web-challenge/index.html)
